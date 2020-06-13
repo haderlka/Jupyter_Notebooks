@@ -1,0 +1,1 @@
+Collection of jupyter notebooks which I tinkered around with. To see the latex equations properly you need to download the notebook and open it locally.
