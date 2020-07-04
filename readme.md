@@ -1,1 +1,1 @@
-Collection of jupyter notebooks which I tinkered around with.
+Collection of misc. problems and algorithms I tinkered around with.

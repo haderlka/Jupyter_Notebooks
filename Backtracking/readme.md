@@ -1,0 +1,1 @@
+Very simple sudoku solver using the backtracking algorithm. The algorithm and the example which is used can be found on [wikipedia](https://en.wikipedia.org/wiki/Backtracking). 
